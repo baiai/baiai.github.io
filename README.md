@@ -1,3 +1,3 @@
-# The Homepage of Songzi Vong
+# The Homepage of BAIAI
 
-[vszhub.github.io](https://vszhub.github.io)
+[baiai.github.io](https://baiai.github.io)

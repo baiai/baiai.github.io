@@ -1,18 +1,4 @@
-- title: Feed
-  url: /feed.xml
-  icon: fas fa-rss
-- title: Email
-  url: mailto://vszhub@gmail.com
-  icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
-- title: Instagram
-  url: https://www.instagram.com/vszhub/
-  icon: fab fa-instagram
-- title: GitHub
-  url: https://github.com/vszhub
-  icon: fab fa-github
-- title: Stack Overflow
-  url: https://stackoverflow.com/users/14359943/songzi-vong
-  icon: fab fa-stack-overflow
+# - title: Feed
+#   url: /feed.xml
+#   icon: fas fa-rss
+
