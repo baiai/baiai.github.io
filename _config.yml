@@ -1,8 +1,8 @@
-title: VSZHub
-description: The homepage of Songzi Vong
+title: BAIAI
+description: The homepage of BAIAI
 url: https://vszhub.github.io
 avatar: /assets/img/avatar.jpeg
-paginate: 5
+paginate: 10
 permalink: pretty
 cover_image: /assets/img/cover.jpeg
 timezone: +0000
@@ -13,7 +13,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Songzi Vong"
+      author: "BAIAI"
       image: "assets/img/avatar.jpeg"
       share: true
   - scope:
@@ -21,7 +21,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      author: "Songzi Vong"
+      author: "BAIAI"
       image: "assets/img/avatar.jpeg"
 
 # Gems
@@ -48,16 +48,6 @@ exclude:
   - scripts/
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
-social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
 lang: en
 
 sass:
@@ -73,9 +63,4 @@ google_analytics: UA-179353572-1
 disqus: vszhub
 
 # Specify the author for blog posts
-author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
-
 remote_theme: vszhub/not-pure-poole
